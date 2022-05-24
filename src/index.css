@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.dark {
+  background: #101010;
+  height: 100vh;
+}
+
+.dark h1 {
+  color: #fff;
+}
+
+.dark h2 {
+  color: #fff;
+}
+
+.dark .ant-card {
+  background: #505050;
+  color: #fff;
+}
+
+.dark .ant-card .ant-card-head {
+  color: #fff;
+}
+
+.dark button {
+  color: #fff;
+  background: #505050;
+  border: #505050;
+}
+
+.dark button:hover {
+  background: #696969;
+  border: #696969;
+}
+
+.dark button:focus {
+  background: #696969;
+  border: #696969;
+}
+
+.dark .ant-card button {
+  color: #fff;
+  background: #15395b;
+  border: #15395b;
+}
+
+.dark .ant-card button:hover {
+  background: #164c7e;
+  border: #164c7e;
+}
+
+.dark .ant-divider span {
+  color: #fff;
+  border-color: #fff;
+}
+
+.dark .ant-list-header {
+  color: #fff;
+  background: #505050;
+}
+
+.dark .ant-list-empty-text {
+  color: #fff;
+  background: #505050;
+}
+
+.dark .ant-list-item {
+  color: #fff;
+  background: #505050;
+}
+
+.dark .ant-empty-description {
+  color: #fff;
+}

@@ -1,0 +1,56 @@
+{
+  "animals": [
+    {
+      "id": 0,
+      "type": "Cat",
+      "name": "Boris",
+      "age": 2,
+      "city": "Moscow",
+      "price": 200,
+      "color": "black",
+      "favoriteFood": [
+        "pizza",
+        "burger"
+      ]
+    },
+    {
+      "id": 1,
+      "type": "Dog",
+      "name": "Jerry",
+      "age": 1,
+      "city": "London"
+    },
+    {
+      "id": 2,
+      "type": "Cat",
+      "name": "Tom"
+    },
+    {
+      "id": 3,
+      "type": "Lizard",
+      "name": "Rango"
+    },
+    {
+      "id": 4,
+      "type": "Monkey",
+      "name": "Den",
+      "age": 12,
+      "city": "Paris",
+      "price": 800,
+      "color": "red",
+      "favoriteFood": [
+        "vegetables"
+      ]
+    },
+    {
+      "type": "Cat",
+      "name": "Vitaly",
+      "age": 1,
+      "city": "London",
+      "price": 500,
+      "color": null,
+      "favoriteFood": null,
+      "id": 5
+    }
+  ]
+}
